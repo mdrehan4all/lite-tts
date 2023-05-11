@@ -1,0 +1,26 @@
+{
+  "name": "lite-tts",
+  "description": "TTS (Text To Speech) Module for Node.js",
+  "version": "1.0.0",
+  "author": "Md Rehan",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && ./examples/basic-callback.js",
+    "lint": "standard",
+    "lint-fix": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdrehan4all/lite-tts"
+  },
+  "typings": "index.d.ts",
+  "engines": {
+    "node": ">=6.9"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "one-time": "0.0.4"
+  }
+}
