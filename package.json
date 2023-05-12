@@ -1,9 +1,18 @@
 {
   "name": "lite-tts",
   "description": "TTS (Text To Speech) Module for Node.js",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "author": "Md Rehan",
   "license": "MIT",
+  "keywords": [
+    "litetts",
+	"lite tts",
+    "speak",
+    "speech synthesis",
+    "speechsynthesis",
+    "text to speech",
+    "tts"
+  ],
   "scripts": {
     "test": "standard && ./examples/basic-callback.js",
     "lint": "standard",
