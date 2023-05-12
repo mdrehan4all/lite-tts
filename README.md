@@ -1,4 +1,10 @@
 # LiteTTS
+> How to install
+```
+npm install lite-tts
+```
+> How to run - Create app.js file (or in your project file) and use any one of the example given below
+<br>
 
 > Code Example 1
 
